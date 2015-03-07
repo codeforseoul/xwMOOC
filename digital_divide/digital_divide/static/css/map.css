@@ -1,0 +1,72 @@
+.province {
+    fill: #eee;
+    stroke: #999;
+    opacity: .5;
+}
+
+.province-Busan {
+    fill: red;
+}
+.province-Chungcheongbuk-do {
+    fill: blue;
+}
+.province-Chungcheongnam-do {
+    fill: green;
+}
+.province-Daegu {
+    fill: pink;
+}
+.province-Daejeon {
+    fill: navy;
+}
+.province-Gangwon-do {
+    fill: gray;
+}
+.province-Gwangju {
+    fill: darkblue;
+}
+.province-Gyeonggi-do {
+    fill: yellow;
+}
+.province-Gyeongsangbuk-do {
+    fill: red;
+}
+.province-Gyeongsangnam-do {
+    fill: green;
+}
+.province-Incheon {
+    fill: blue;
+}
+.province-Jeju {
+    fill: magenta;
+}
+.province-Jeollabuk-do {
+    fill: lightblue;
+}
+.province-Jeollanam-do {
+    fill: purple;
+}
+.province-Seoul {
+    fill: #eee;
+}
+.province-Ulsan {
+    fill: green;
+}
+
+text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    text-anchor: middle;
+}
+.subunit-boundary {
+    fill: none;
+    stroke: #777;
+    stroke-dasharray: 2,2;
+    stroke-linejoin: round;
+}
+.subunit-label {
+    fill: black;
+    font-size: 8px;
+    font-weight: 300;
+    text-anchor: middle;
+}
