@@ -1,0 +1,20 @@
+.mydiv img {
+    height: 100%;
+    width: 100%;
+}
+
+.mydiv2 img {
+    width: 100%;
+}
+
+#disqus_thread {
+  width: 600px;
+  margin-top: 2cm;
+  margin-left: 2cm;
+}
+
+#title {
+  margin-top: 2cm;
+  margin-left: 2cm;
+}
+
