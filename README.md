@@ -5,6 +5,8 @@ Graphical charts show visual explanation of described concept in 3 areas:
 - GDP
 - ICT 
 
+![alt text](https://raw.githubusercontent.com/codeforseoul/xwMOOC/master/screenshot.png)
+
 # Data sources
 OECD, Office of Education, World Bank, Public Data portal
 
